@@ -1,16 +1,15 @@
 # solder-ysws
 
-The main function of the PCB is that there is a button which will control the functioning of all the LEDs present in the board. 
-
+The main function of this PCB is that it looks ilke a some kinda kitty but its irregular in shape lowk , and it runs on a CR2032 battery 
 ## Schematic
-![](schematic.png)
+![](sch.png)
 
 ## PCB
-![](pcb_front.png)
 ![](pcb.png)
+![](model.png)
 
 ## How to build
-place the parts according to schematic and solder them EZZZZ
+place the parts according to schematic and solder them; EZZZZ
 ## BOM
 - 1 	Battery
 - 5   LED
